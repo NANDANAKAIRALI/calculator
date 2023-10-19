@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(101, 101, 196); /* Change to the color you desire */
+}
+
+/* CSS for the body */
+table {
+    background-color: lightblue; /* Change to the color you desire */
+
+}
+table {
+    border-collapse: collapse; /* To ensure borders don't overlap */
+    width: 100%; /* Set the table width as needed */
+}
+
+th, td {
+    border: 1px solid rgb(101, 101, 196); /* 1px solid black border around each cell */
+    padding: 8px; /* Add padding for spacing within cells */
+}
+
+th { 
+    font-weight: bold; /* Make header text bold */
+}
